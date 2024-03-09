@@ -1,1 +1,1 @@
-I added this line in the my-new-feature branch.
+I added this phrase in the my-new-feature branch.
