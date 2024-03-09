@@ -1,1 +1,5 @@
-I added this word in the my-new-feature branch.
+<<<<<<< HEAD
+I added this phrase in the my-new-feature branch.
+=======
+I added this phrase in the my-new-feature branch.
+>>>>>>> my-new-feature
